@@ -1,3 +1,7 @@
 # Interaksi-Manusia-dan-Komputer-2024
 
-UAS IMK
+Tugas UAS Interaksi Manusia dan Komputer
+
+Nama : Rifki Nurhidayat
+NIM : 2209106069
+Kelas : Informatika B 2022
